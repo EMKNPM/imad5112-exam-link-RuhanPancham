@@ -3,9 +3,11 @@
 write up
 Campsite Commander is a mobile app designed to help people with orgainizing their camping equipment for outdoor excursions. The app allows users to add ,view, and organize their items like tents,marshmellos and flashlights. It uses parallel arrays to 
 hold the item , uses loops to compute the count of packed items  and includes many screens for a more convenient navigation.  
-<img width="488" height="879" alt="image" src="https://github.com/user-attachments/assets/e05942fa-b571-48ef-aa3e-b5eab5324c36" />
-<img width="495" height="875" alt="image" src="https://github.com/user-attachments/assets/12d2e174-c7f7-43af-8b3a-4ac1b555e6d9" />
-<img width="494" height="872" alt="image" src="https://github.com/user-attachments/assets/95813f05-768f-4393-8458-7729d7815c1f" />
+<img width="473" height="842" alt="image" src="https://github.com/user-attachments/assets/d4ccc2e8-8e69-4c19-a92e-a01e723668ef" />
+<img width="486" height="855" alt="image" src="https://github.com/user-attachments/assets/55de227c-c085-46a6-9af4-6c9d4e806214" />
+<img width="491" height="852" alt="image" src="https://github.com/user-attachments/assets/131a9760-acbc-4c77-9cb0-7acf3b36f88a" />
+<img width="482" height="853" alt="image" src="https://github.com/user-attachments/assets/a6985cd5-ba58-4747-886c-143e0da30cee" />
+
 
 
 Pseudocode
