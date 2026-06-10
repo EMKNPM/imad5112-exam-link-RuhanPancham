@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:orientation="vertical"
+    android:background="#2D6A4F">
+
+    <TextView
+        android:id="@+id/txtTotalItems"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Total Items Packed"
+        android:textSize="24sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/btnAddGear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Gear"
+        android:layout_marginTop="30dp"/>
+
+    <Button
+        android:id="@+id/btnViewGear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Gear List"
+        android:layout_marginTop="15dp"/>
+
+</LinearLayout>
